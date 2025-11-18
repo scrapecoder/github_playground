@@ -3,3 +3,4 @@
 console.log("this is added by main");
 m1;
 m2;
+m3;

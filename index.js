@@ -1,3 +1,5 @@
 //this one is index from dev sourav
 //welcome to the index file and is modified by the sourav
-//new feature
+console.log("this is added by main");
+m1;
+m2;

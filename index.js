@@ -1,1 +1,2 @@
-//this one is index
+//this one is index from nish
+//welcome to the git

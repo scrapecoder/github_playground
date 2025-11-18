@@ -6,3 +6,4 @@ console.log("hello this from line 4");
 console.log("hello this from line 5");
 f1;
 f2;
+f3;
